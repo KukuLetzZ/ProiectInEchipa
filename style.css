@@ -1,0 +1,264 @@
+@import url('https://fonts.googleapis.com/css?family=Oswald:400,700');
+@import url('https://fonts.googleapis.com/css?family=Montserrat:400,700');
+@import url('https://fonts.googleapis.com/css?family=Raleway:400,400i,500,500i,600,600i,700,700i,800,800i,900,900i');
+
+body {
+	margin: 0;
+}
+
+
+header {
+	background-color: black;
+	color: white;
+	padding: 8px 0px 6px 40px;
+	height: 45px;
+}
+
+header h1 {
+	display: inline;
+	font-family: 'Oswald', sans-serif;
+	font-weight: 400;
+	font-size: 32px;
+	float: left;
+	margin-top: 0px;
+	margin-right: 10px;
+}
+
+nav ul {
+	display: inline;
+	padding: 0px;
+	float: left;
+}
+
+nav ul li {
+	display: inline-block;
+	list-style-type: none;
+	color: white;
+	float: left;
+	margin-left: 12px;
+}
+
+nav ul li a {
+	color: white;
+	text-decoration: none;
+	
+}
+
+footer ul {
+	display: inline;
+	padding: 0px;
+	float: right;
+}
+
+footer ul li {
+	display: inline-block;
+	list-style-type: none;
+	color: white;
+	float: right;
+	margin-left: 10px;
+}
+
+footer ul li a {
+	color: white;
+	text-decoration: none;
+	padding: 30px 10px 11px 10px;
+}
+
+#nav {
+	font-family: 'Montserrat', sans-serif;
+}
+
+#footer{
+	font-family: 'Montserrat', sans-serif;
+}
+
+.homered {
+	background-color: #169923;
+	padding: 30px 10px 16px 10px;
+}
+
+.divider {
+	background-color: #169923;
+	height: 5px;
+}
+
+.homeblack:hover {
+	background-color: #169923;
+	padding: 30px 10px 16px 10px;
+}
+
+.login:hover {
+	background-color: #169923;
+	padding: 30px 10px 16px 10px;
+}
+
+.register:hover {
+	background-color: #169923;
+	padding: 30px 10px 16px 10px;
+}
+
+.aboutus:hover {
+	background-color: #169923;
+	padding: 30px 10px 16px 10px;
+}
+
+	.img_background {
+		background-image: url(imagini/fundal/background1.jpg);
+		width: 100%;
+		height: 100%;
+		background-repeat: no-repeat;
+		background-size: cover;
+		margin: 0;
+		padding: 0;
+	}
+
+	.img_background_GPU {
+		background-image: url(imagini/fundal/GPU.jpg);
+		width: 100%;
+		height: 100%;
+		background-repeat: no-repeat;
+		background-size: cover;
+		background-color: black;
+		margin: 0;
+		padding: 0;
+	}
+	.img_background_CPU {
+		background-image: url(imagini/fundal/CPU.png);
+		width: 100%;
+		height: 100%;
+		background-repeat: no-repeat;
+		background-size: cover;
+		background-color: black;
+		margin: 0;
+		padding: 0;
+	}
+	.img_background_MB {
+		background-image: url(imagini/fundal/MB.jpg);
+		width: 100%;
+		height: 100%;
+		background-repeat: no-repeat;
+		background-size: cover;
+		background-color: black;
+		margin: 0;
+		padding: 0;
+	}
+	.img_background_RAM {
+		background-image: url(imagini/fundal/RAM.png);
+		width: 100%;
+		height: 100%;
+		background-repeat: no-repeat;
+		background-size: cover;
+		background-color: black;
+		margin: 0;
+		padding: 0;
+	}
+	.img_background_HDD {
+		background-image: url(imagini/fundal/HDD.jpg);
+		width: 100%;
+		height: 100%;
+		background-repeat: no-repeat;
+		background-size: cover;
+		background-color: black;
+		margin: 0;
+		padding: 0;
+	}
+	.img_background_SSD {
+		background-image: url(imagini/fundal/SSD.jpg);
+		width: 100%;
+		height: 100%;
+		background-repeat: no-repeat;
+		background-size: cover;
+		background-color: black;
+		margin: 0;
+		padding: 0;
+	}
+	.img_background_CASE {
+		background-image: url(imagini/fundal/CASE.jpg);
+		width: 100%;
+		height: 100%;
+		background-repeat: no-repeat;
+		background-size: cover;
+		background-color: black;
+		margin: 0;
+		padding: 0;
+	}
+	.img_background_COOL {
+		background-image: url(imagini/fundal/COOL.jpg);
+		width: 100%;
+		height: 100%;
+		background-repeat: no-repeat;
+		background-size: cover;
+		background-color: black;
+		margin: 0;
+		padding: 0;
+	}
+	.img_background_DVD {
+		background-image: url(imagini/fundal/DVD.png);
+		width: 100%;
+		height: 100%;
+		background-repeat: no-repeat;
+		background-size: cover;
+		background-color: black;
+		margin: 0;
+		padding: 0;
+	}
+	.img_background_PSU {
+		background-image: url(imagini/fundal/PSU.jpg);
+		width: 100%;
+		height: 100%;
+		background-repeat: no-repeat;
+		background-size: cover;
+		background-color: black;
+		margin: 0;
+		padding: 0;
+	}
+
+	.img_background_AU {
+		background-image: url(imagini/fundal/aboutus.jpg);
+		width: 100%;
+		height: 100%;
+		background-repeat: no-repeat;
+		background-size: cover;
+		background-color: black;
+		margin: 0;
+		padding: 0;
+	}
+
+.desc1 {
+	font-family: 'Raleway', sans-serif;
+	margin: 0;
+	padding: 9% 5% 0% 55%;
+	font-size: 30px;
+	color: yellow;
+	text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+}
+
+.desc2{
+	font-family: 'Raleway', sans-serif;
+	margin: 0.5% 0% 0% 55%;
+	font-size: 60px;
+	color: white;
+	background-color: rgba(0, 0, 0, 0.4);
+	display: inline-block;
+}
+
+.desc3{
+	font-family: 'Oswald', sans-serif;
+	margin: 0% 0% 0% 55%;
+	font-size: 45px;
+	color: yellow;
+	display: inline-block;
+}
+
+.buttonhome {
+	font-family: 'Raleway', sans-serif;
+	margin: 0% 0% 0% 55%;
+	background: yellow;
+	color: black;
+	border: none;
+	height: 50px;
+	font-size: 1.4em;
+	padding: 0 1em;
+	cursor: pointer;
+	font-weight: 900;
+}
